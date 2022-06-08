@@ -1,6 +1,7 @@
 # Fashion_Detector_Website
 
-##Description
+##Description:
+
 This is a website that allows you to upload a clothing item image to it and then it will try and detect the clothing item.
 
 ##
