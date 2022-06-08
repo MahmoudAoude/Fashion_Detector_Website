@@ -1,0 +1,64 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('2.webp');
+
+}
+
+#ImageBox{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+
+}
+
+#userImg{
+    background-color: transparent;
+    width: 10%;
+
+}
+
+.form{
+    position: relative;
+    background-color: transparent;
+    height: 150px;
+    width: 350px;
+
+    align-items: center;
+    justify-content: center;
+
+    margin:15% 40.98% 3%;
+    display: flex;
+    flex-grow: 1;
+    
+}
+#fileBox{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 95%;
+
+}
+
+#text,#text1{
+    color: rgb(250, 171, 168);
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+#text1{
+    color: rgb(66, 215, 226);
+
+}
+
+#drkBtn{
+    margin:auto 24%;
+    width: 50%;
+}
